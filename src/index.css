@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+  color: #333; /* Dark text for contrast */
+}
+
+.logo-font {
+  font-family: "Great Vibes", cursive;
+  font-weight: 600;
+}
